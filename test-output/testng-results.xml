@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T17:54:18 IST" name="Default suite" finished-at="2022-07-28T17:54:18 IST" duration-ms="381">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T17:54:18 IST" name="Default test" finished-at="2022-07-28T17:54:18 IST" duration-ms="381">
+      <class name="org.vtiger.practice.GridPractice">
+        <test-method signature="gridPractice()[pri:0, instance:org.vtiger.practice.GridPractice@436c81a3]" started-at="2022-07-28T17:54:18 IST" name="gridPractice" finished-at="2022-07-28T17:54:18 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gridPractice -->
+      </class> <!-- org.vtiger.practice.GridPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
